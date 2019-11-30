@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>com.github.romanowski.intellij.toolkit</id>
+  <name>Intellij Toolkit</name>
+  <version>0.2.0-SNAPSHOT</version>
+  <vendor email="romanowski.kr@gmail.com"
+          url="https://github.com/romanowski/Intellij-toolkit">Krzysztof Romanowski</vendor>
+
+  <description><![CDATA[
+       Toolkit to play with Intellij. Profiling, debugging etc.
+    ]]></description>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="193.0"/>
+
+  <project-components>
+    <component>
+      <implementation-class>com.github.romanowski.intellij.toolkit.ProfileHighlights</implementation-class>
+    </component>
+    <component>
+      <implementation-class>com.github.romanowski.intellij.toolkit.Stats</implementation-class>
+    </component>
+  </project-components>
+</idea-plugin>

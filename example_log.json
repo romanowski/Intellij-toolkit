@@ -1,0 +1,3726 @@
+[
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146184143,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 40222,
+        "ide_activity_id": 17,
+        "created": 1575146184143
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146184162,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 20,
+        "plugin": "DevKit",
+        "executor": "Debug",
+        "created": 1575146184162,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "id": "#org.jetbrains.idea.devkit.run.PluginConfigurationType"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146184169,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 21,
+        "task_runner_class": [
+          "com.intellij.task.impl.JpsProjectTaskRunner"
+        ],
+        "plugin": "com.intellij.java",
+        "created": 1575146184169,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146186691,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 2522,
+        "ide_activity_id": 21,
+        "created": 1575146186691
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146186781,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 20,
+        "created": 1575146186781
+      },
+      "id": "ui.shown"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146186907,
+    "group": {
+      "id": "toolwindow",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146186907,
+        "plugin_type": "PLATFORM",
+        "id": "Debug"
+      },
+      "id": "activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146189958,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146189958,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146193352,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146193352,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146195629,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146195629,
+        "action_id": "Resume",
+        "created": 1575146195629,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146195672,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146195673,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146205260,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146205260,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146214601,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 1,
+        "created": 1575146214601
+      },
+      "id": "ui.latency"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146220437,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146220437,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146222034,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146222034,
+        "plugin_type": "PLATFORM",
+        "id": "editing.select.word",
+        "group": "editing"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146224150,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorPaste",
+        "created": 1575146224150,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.PasteAction",
+        "input_event": "Ctrl+V"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146224722,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 119,
+        "created": 1575146224722
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146226331,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 10,
+      "data": {
+        "context_menu": false,
+        "last": 1575146227072,
+        "current_file": "Scala",
+        "action_id": "EditorLeft",
+        "created": 1575146226332,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretLeftAction",
+        "input_event": "Left"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146227690,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "CodeCompletion",
+        "created": 1575146227691,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.codeInsight.completion.actions.CodeCompletionAction",
+        "input_event": "Ctrl+Space"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146227691,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146227691,
+        "plugin_type": "PLATFORM",
+        "id": "editing.completion.basic",
+        "group": "completion"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146228348,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": -1,
+        "created": 1575146228349,
+        "selected_index": 0,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 654,
+        "finish_type": "TYPED",
+        "query_length": 18,
+        "token_length": 18,
+        "typing": 0,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 1,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146230024,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146230024,
+        "plugin_type": "PLATFORM",
+        "id": "editing.select.word",
+        "group": "editing"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146230783,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 178,
+        "created": 1575146230783
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146232055,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorEnter",
+        "created": 1575146232056,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.EnterAction",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146233130,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": -1,
+        "created": 1575146233130,
+        "selected_index": -1,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 19,
+        "finish_type": "CANCELED_BY_TYPING",
+        "query_length": -1,
+        "token_length": -1,
+        "typing": 0,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 0,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146233614,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorDown",
+        "created": 1575146233614,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretDownAction",
+        "input_event": "Down"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146233830,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorCut",
+        "created": 1575146233830,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.CutAction",
+        "input_event": "Ctrl+X"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146235296,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146235296,
+        "plugin_type": "PLATFORM",
+        "id": "editing.select.word",
+        "group": "editing"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146236322,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146236434,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146236322,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146237146,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorRight",
+        "created": 1575146237147,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretRightAction",
+        "input_event": "Right"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146237494,
+    "group": {
+      "id": "file.types.usage",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "file_path": "9fbbcda48d4fd77fecbb9822cb2b9092f857b6c7cf3388662886cffda0ac63c1",
+        "plugin": "org.intellij.scala",
+        "file_type": "Scala",
+        "created": 1575146237494,
+        "plugin_type": "JB_NOT_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "edit"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146240882,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorRight",
+        "created": 1575146240883,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretRightAction",
+        "input_event": "Right"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146241178,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorLeft",
+        "created": 1575146241179,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretLeftAction",
+        "input_event": "Left"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146241835,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146241835,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146245126,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "GotoDeclaration",
+        "created": 1575146245127,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "mouse_shortcut",
+        "class": "com.intellij.codeInsight.navigation.actions.GotoDeclarationAction",
+        "input_event": "Ctrl+MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146245131,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146245132,
+        "plugin_type": "PLATFORM",
+        "id": "navigation.goto.declaration",
+        "group": "navigation"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146245918,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "Switcher",
+        "created": 1575146245918,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.ide.actions.Switcher",
+        "input_event": "Ctrl+Tab"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146245924,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146245924,
+        "plugin_type": "PLATFORM",
+        "id": "switcher",
+        "group": "ui"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146246969,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "XML",
+        "action_id": "Switcher",
+        "created": 1575146246970,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.ide.actions.Switcher",
+        "input_event": "Ctrl+Tab"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146246999,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146246999,
+        "plugin_type": "PLATFORM",
+        "id": "switcher",
+        "group": "ui"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146249859,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146249859,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146258823,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146258823,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146261938,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorChooseLookupItem",
+        "created": 1575146261939,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.codeInsight.lookup.impl.actions.ChooseItemAction$FocusedOnly",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146261958,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146261958,
+        "plugin_type": "PLATFORM",
+        "id": "editing.completion.basic",
+        "group": "completion"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146261960,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": 294,
+        "created": 1575146261960,
+        "selected_index": 0,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 1002,
+        "finish_type": "EXPLICIT",
+        "query_length": 2,
+        "token_length": 8,
+        "typing": 2,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 2,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146274018,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146274018,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146314847,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 1,
+        "created": 1575146314847
+      },
+      "id": "ui.latency"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146349921,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146349921,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146355401,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorCopy",
+        "created": 1575146355401,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.CopyAction",
+        "input_event": "Ctrl+C"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146356033,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146356033,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146389520,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146389520,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146393721,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146393721,
+        "action_id": "Resume",
+        "created": 1575146393721,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146393749,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146393750,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146396835,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146396835,
+        "action_id": "Debug",
+        "created": 1575146396835,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "NavBarToolbar",
+        "class": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146396855,
+    "group": {
+      "id": "ui.dialogs",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146396856,
+        "plugin_type": "PLATFORM",
+        "dialog_class": "com.intellij.openapi.ui.messages.MessageDialog"
+      },
+      "id": "show"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146397827,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146397827,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146398128,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 213966,
+        "ide_activity_id": 20,
+        "created": 1575146398128
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146398129,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Debug",
+        "created": 1575146398129,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "NavBarToolbar",
+        "class": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146398144,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146398144,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146398144,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 275,
+        "created": 1575146398144
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146398183,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 22,
+        "plugin": "DevKit",
+        "executor": "Debug",
+        "created": 1575146398184,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "id": "#org.jetbrains.idea.devkit.run.PluginConfigurationType"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146398184,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 23,
+        "task_runner_class": [
+          "com.intellij.task.impl.JpsProjectTaskRunner"
+        ],
+        "plugin": "com.intellij.java",
+        "created": 1575146398184,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146399763,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 1579,
+        "ide_activity_id": 23,
+        "created": 1575146399763
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146400288,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 22,
+        "created": 1575146400288
+      },
+      "id": "ui.shown"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146400303,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 433,
+        "created": 1575146400303
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146400405,
+    "group": {
+      "id": "toolwindow",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146400406,
+        "plugin_type": "PLATFORM",
+        "id": "Debug"
+      },
+      "id": "activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146401228,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 358,
+        "created": 1575146401228
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146402383,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146402383,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146407823,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146407823,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146414873,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 0,
+        "created": 1575146414873
+      },
+      "id": "ui.latency"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146431888,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146431888,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146447092,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146447092,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146447404,
+    "group": {
+      "id": "toolwindow",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146447404,
+        "plugin_type": "PLATFORM",
+        "id": "Debug"
+      },
+      "id": "activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146452140,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146452140,
+        "action_id": "Resume",
+        "created": 1575146452140,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146452161,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146452161,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146453099,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146453099,
+        "action_id": "Resume",
+        "created": 1575146453099,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146453114,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146453114,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146454018,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146454018,
+        "action_id": "Resume",
+        "created": 1575146454018,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146454063,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146454063,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146454894,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146454895,
+        "action_id": "Resume",
+        "created": 1575146454895,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146454908,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146454911,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146456504,
+    "group": {
+      "id": "gutter.icon.click",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "current_file": "Scala",
+        "created": 1575146456505,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "icon_id": "db_verified_breakpoint"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146456505,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction",
+        "created": 1575146456505,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "ICON_NAVIGATION",
+        "class": "com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146457906,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146457907,
+        "action_id": "Resume",
+        "created": 1575146457907,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146457947,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146457947,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146461136,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146461136,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146461137,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 252,
+        "created": 1575146461137
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146464821,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146464821,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146467723,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146467827,
+        "current_file": "Scala",
+        "action_id": "EditorEnter",
+        "created": 1575146467723,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.EnterAction",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146468780,
+    "group": {
+      "id": "file.types.usage",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "file_path": "9fbbcda48d4fd77fecbb9822cb2b9092f857b6c7cf3388662886cffda0ac63c1",
+        "plugin": "org.intellij.scala",
+        "file_type": "Scala",
+        "created": 1575146468782,
+        "plugin_type": "JB_NOT_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "edit"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146469101,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": 189,
+        "created": 1575146469101,
+        "selected_index": 0,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 285,
+        "finish_type": "TYPED",
+        "query_length": 2,
+        "token_length": 2,
+        "typing": 1,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 1,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146470010,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 115,
+        "created": 1575146470010
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146471043,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorChooseLookupItem",
+        "created": 1575146471043,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.codeInsight.lookup.impl.actions.ChooseItemAction$FocusedOnly",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146471052,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146471052,
+        "plugin_type": "PLATFORM",
+        "id": "editing.completion.basic",
+        "group": "completion"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146471053,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": 51,
+        "created": 1575146471053,
+        "selected_index": 0,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 551,
+        "finish_type": "EXPLICIT",
+        "query_length": 3,
+        "token_length": 7,
+        "typing": 0,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 2,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146473747,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146473751,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146473769,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": 102,
+        "created": 1575146473769,
+        "selected_index": 0,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 2583,
+        "finish_type": "CANCELED_BY_TYPING",
+        "query_length": -1,
+        "token_length": -1,
+        "typing": 0,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 2,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146473886,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 11,
+      "data": {
+        "context_menu": false,
+        "last": 1575146482954,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146473886,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146485067,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorDown",
+        "created": 1575146485067,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretDownAction",
+        "input_event": "Down"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146485386,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorChooseLookupItem",
+        "created": 1575146485387,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.codeInsight.lookup.impl.actions.ChooseItemAction$FocusedOnly",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146485391,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146485391,
+        "plugin_type": "PLATFORM",
+        "id": "editing.completion.basic",
+        "group": "completion"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146485392,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": 109,
+        "created": 1575146485392,
+        "selected_index": 1,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 9807,
+        "finish_type": "EXPLICIT",
+        "query_length": 2,
+        "token_length": 8,
+        "typing": 6,
+        "ml_used": false,
+        "backspaces": 4,
+        "lang": "Scala",
+        "selection_changed": 6,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146488268,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 3,
+      "data": {
+        "context_menu": false,
+        "last": 1575146488618,
+        "current_file": "Scala",
+        "action_id": "EditorDown",
+        "created": 1575146488268,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretDownAction",
+        "input_event": "Down"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146489179,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorUp",
+        "created": 1575146489179,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretUpAction",
+        "input_event": "Up"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146489451,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorChooseLookupItem",
+        "created": 1575146489451,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.codeInsight.lookup.impl.actions.ChooseItemAction$FocusedOnly",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146489456,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146489456,
+        "plugin_type": "PLATFORM",
+        "id": "editing.completion.basic",
+        "group": "completion"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146489457,
+    "group": {
+      "id": "completion",
+      "version": "1"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "time_to_show": 48,
+        "created": 1575146489457,
+        "selected_index": 2,
+        "alphabetically": false,
+        "version": "unknown",
+        "duration": 3881,
+        "finish_type": "EXPLICIT",
+        "query_length": 0,
+        "token_length": 5,
+        "typing": 0,
+        "ml_used": false,
+        "backspaces": 0,
+        "lang": "Scala",
+        "selection_changed": 6,
+        "total_ml_time": 0
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146490276,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 377,
+        "created": 1575146490276
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146493058,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "EditorCopy",
+        "created": 1575146493058,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.CopyAction",
+        "input_event": "Ctrl+C"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146493333,
+    "group": {
+      "id": "file.types.usage",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "file_path": "5014d289ea633fbd65a6f85928ac1d0cc6a9d0beb6928e04d711e71c7cdcd126",
+        "plugin": "org.intellij.scala",
+        "file_type": "Scala",
+        "created": 1575146493333,
+        "plugin_type": "JB_NOT_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "open"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146494626,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "Switcher",
+        "created": 1575146494627,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.ide.actions.Switcher",
+        "input_event": "Ctrl+Tab"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146494637,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146494638,
+        "plugin_type": "PLATFORM",
+        "id": "switcher",
+        "group": "ui"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146496028,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "Switcher",
+        "created": 1575146496028,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.ide.actions.Switcher",
+        "input_event": "Ctrl+Tab"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146496036,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146496036,
+        "plugin_type": "PLATFORM",
+        "id": "switcher",
+        "group": "ui"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146497326,
+    "group": {
+      "id": "gutter.icon.click",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "current_file": "Scala",
+        "created": 1575146497326,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "icon_id": "db_verified_breakpoint"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146497326,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction",
+        "created": 1575146497326,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "ICON_NAVIGATION",
+        "class": "com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146498715,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146498716,
+        "action_id": "Resume",
+        "created": 1575146498715,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146498758,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Resume",
+        "created": 1575146498759,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.xdebugger.impl.actions.ResumeAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146499263,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "Switcher",
+        "created": 1575146499263,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.ide.actions.Switcher",
+        "input_event": "Ctrl+Tab"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146499281,
+    "group": {
+      "id": "productivity",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146499281,
+        "plugin_type": "PLATFORM",
+        "id": "switcher",
+        "group": "ui"
+      },
+      "id": "feature.used"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146501358,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146501359,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146502196,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorPaste",
+        "created": 1575146502196,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.PasteAction",
+        "input_event": "Ctrl+V"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146503082,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146503239,
+        "current_file": "Scala",
+        "action_id": "EditorRight",
+        "created": 1575146503082,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretRightAction",
+        "input_event": "Right"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146505071,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146505071,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146507882,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorCut",
+        "created": 1575146507882,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.CutAction",
+        "input_event": "Ctrl+X"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146508113,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 158,
+        "created": 1575146508113
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146508936,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorEnter",
+        "created": 1575146508936,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.EnterAction",
+        "input_event": "Enter"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146509590,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorPaste",
+        "created": 1575146509591,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.PasteAction",
+        "input_event": "Ctrl+V"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146513759,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorLeft",
+        "created": 1575146513759,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretLeftAction",
+        "input_event": "Left"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146514964,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 2,
+        "created": 1575146514964
+      },
+      "id": "ui.latency"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146515606,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 4,
+      "data": {
+        "context_menu": false,
+        "last": 1575146516858,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146515607,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146518899,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorRight",
+        "created": 1575146518899,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.MoveCaretRightAction",
+        "input_event": "Right"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146520543,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146520735,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146520543,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146524634,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146524635,
+        "action_id": "Rerun",
+        "created": 1575146524635,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.execution.runners.FakeRerunAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146524660,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Rerun",
+        "created": 1575146524660,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "DebuggerToolbar",
+        "class": "com.intellij.execution.runners.FakeRerunAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146524732,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 126549,
+        "ide_activity_id": 22,
+        "created": 1575146524732
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146524810,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 24,
+        "plugin": "DevKit",
+        "executor": "Debug",
+        "created": 1575146524810,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "id": "#org.jetbrains.idea.devkit.run.PluginConfigurationType"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146524811,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 25,
+        "task_runner_class": [
+          "com.intellij.task.impl.JpsProjectTaskRunner"
+        ],
+        "plugin": "com.intellij.java",
+        "created": 1575146524811,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146526157,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 1346,
+        "ide_activity_id": 25,
+        "created": 1575146526157
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146526737,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 24,
+        "created": 1575146526737
+      },
+      "id": "ui.shown"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146526880,
+    "group": {
+      "id": "toolwindow",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146526880,
+        "plugin_type": "PLATFORM",
+        "id": "Debug"
+      },
+      "id": "activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146529845,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146529845,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146532758,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146532758,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146535002,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "current_file": "Scala",
+        "action_id": "EditorBackSpace",
+        "created": 1575146535010,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "keyboard_shortcut",
+        "class": "com.intellij.openapi.editor.actions.BackspaceAction",
+        "input_event": "Backspace"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146536423,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146536425,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146545152,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146545152,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146546930,
+    "group": {
+      "id": "file.types.usage",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "file_path": "9fbbcda48d4fd77fecbb9822cb2b9092f857b6c7cf3388662886cffda0ac63c1",
+        "plugin": "org.intellij.scala",
+        "file_type": "Scala",
+        "created": 1575146546930,
+        "plugin_type": "JB_NOT_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "edit"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146548915,
+    "group": {
+      "id": "actions",
+      "version": "31"
+    },
+    "event": {
+      "count": 2,
+      "data": {
+        "context_menu": false,
+        "last": 1575146548916,
+        "current_file": "Scala",
+        "action_id": "Run",
+        "created": 1575146548915,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "NavBarToolbar",
+        "class": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "action.invoked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146548920,
+    "group": {
+      "id": "ui.dialogs",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146548920,
+        "plugin_type": "PLATFORM",
+        "dialog_class": "com.intellij.openapi.ui.messages.MessageDialog"
+      },
+      "id": "show"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146550059,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146550059,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146550060,
+    "group": {
+      "id": "toolbar",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "context_menu": false,
+        "action_id": "Run",
+        "created": 1575146550060,
+        "plugin_type": "PLATFORM",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "place": "NavBarToolbar",
+        "class": "com.intellij.execution.ExecutorRegistryImpl$ExecutorAction",
+        "input_event": "MouseLeft"
+      },
+      "id": "clicked"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146550068,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146550068,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146550095,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 25285,
+        "ide_activity_id": 24,
+        "created": 1575146550095
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146550122,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 26,
+        "plugin": "DevKit",
+        "executor": "Run",
+        "created": 1575146550122,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9",
+        "id": "#org.jetbrains.idea.devkit.run.PluginConfigurationType"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146550123,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 27,
+        "task_runner_class": [
+          "com.intellij.task.impl.JpsProjectTaskRunner"
+        ],
+        "plugin": "com.intellij.java",
+        "created": 1575146550123,
+        "plugin_type": "JB_BUNDLED",
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "started"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146551426,
+    "group": {
+      "id": "build",
+      "version": "2"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 1303,
+        "ide_activity_id": 27,
+        "created": 1575146551426
+      },
+      "id": "finished"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146551892,
+    "group": {
+      "id": "run.configuration.exec",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "ide_activity_id": 26,
+        "created": 1575146551892
+      },
+      "id": "ui.shown"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146551915,
+    "group": {
+      "id": "toolwindow",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146551915,
+        "plugin_type": "PLATFORM",
+        "id": "Run"
+      },
+      "id": "activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146554637,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146554637,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146583069,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146583069,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.activated"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146585113,
+    "group": {
+      "id": "performance",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "duration_ms": 127,
+        "created": 1575146585113
+      },
+      "id": "ui.lagging"
+    }
+  },
+  {
+    "recorder_version": "31",
+    "session": "d2859e2dd1ac",
+    "build": "193.5233.102",
+    "bucket": "114",
+    "time": 1575146608562,
+    "group": {
+      "id": "lifecycle",
+      "version": "31"
+    },
+    "event": {
+      "count": 1,
+      "data": {
+        "created": 1575146608562,
+        "project": "b428243977ac2341f21dd1dee23d4db25ba313bab1ab9a3381e4a53c353d7ea9"
+      },
+      "id": "frame.deactivated"
+    }
+  }
+]
